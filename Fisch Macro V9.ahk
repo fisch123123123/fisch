@@ -8,13 +8,13 @@ CoordMode, Mouse, Screen
 ;======    General Settings    ===================================================================;
 
 ; How long to wait after fishing before recasting the rod
-ExtraRodRecastDelay := 1000
+ExtraRodRecastDelay := 750
 
 ; How long to hold the cast for before releasing
-HoldRodCastDuration := 1000
+HoldRodCastDuration := 500
 
 ; How long to wait for the bobber to land in water
-WaitForBobberDelay := 1000
+WaitForBobberDelay := 750
 
 ;======    Shake Settings    =====================================================================;
 
